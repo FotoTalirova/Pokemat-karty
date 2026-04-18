@@ -1,0 +1,322 @@
+[
+  {
+    "id": "sv8-1",
+    "set": "sv8",
+    "name": "Pikachu SIR",
+    "supertype": "Pokémon",
+    "subtypes": "Basic",
+    "types": "Fire",
+    "number": "001",
+    "rarity": "Special Illustration Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/001.png",
+      "large": "https://images.pokemontcg.io/sv8/001_hires.png",
+      "foil": "/img/foils/sv8/foils/001_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/001_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-2",
+    "set": "sv8",
+    "name": "Charizard IR",
+    "supertype": "Pokémon",
+    "subtypes": "VSTAR",
+    "types": "Fire",
+    "number": "002",
+    "rarity": "Illustration Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/002.png",
+      "large": "https://images.pokemontcg.io/sv8/002_hires.png",
+      "foil": "/img/foils/sv8/foils/002_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/002_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-3",
+    "set": "sv8",
+    "name": "Mew VSTAR Hyper",
+    "supertype": "Pokémon",
+    "subtypes": "VMAX",
+    "types": "Fire",
+    "number": "003",
+    "rarity": "Hyper Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/003.png",
+      "large": "https://images.pokemontcg.io/sv8/003_hires.png",
+      "foil": "/img/foils/sv8/foils/003_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/003_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-4",
+    "set": "sv8",
+    "name": "Lugia UR",
+    "supertype": "Pokémon",
+    "subtypes": "Basic",
+    "types": "Fire",
+    "number": "004",
+    "rarity": "Ultra Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/004.png",
+      "large": "https://images.pokemontcg.io/sv8/004_hires.png",
+      "foil": "/img/foils/sv8/foils/004_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/004_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-5",
+    "set": "sv8",
+    "name": "Rayquaza Double Rare",
+    "supertype": "Pokémon",
+    "subtypes": "VSTAR",
+    "types": "Fire",
+    "number": "005",
+    "rarity": "Double Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/005.png",
+      "large": "https://images.pokemontcg.io/sv8/005_hires.png",
+      "foil": "/img/foils/sv8/foils/005_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/005_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-6",
+    "set": "sv8",
+    "name": "Gardevoir SIR",
+    "supertype": "Pokémon",
+    "subtypes": "VMAX",
+    "types": "Water",
+    "number": "006",
+    "rarity": "Rare Holo VSTAR",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/006.png",
+      "large": "https://images.pokemontcg.io/sv8/006_hires.png",
+      "foil": "/img/foils/sv8/foils/006_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/006_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-7",
+    "set": "sv8",
+    "name": "Gengar IR",
+    "supertype": "Pokémon",
+    "subtypes": "Basic",
+    "types": "Water",
+    "number": "007",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/007.png",
+      "large": "https://images.pokemontcg.io/sv8/007_hires.png",
+      "foil": "/img/foils/sv8/foils/007_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/007_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-8",
+    "set": "sv8",
+    "name": "Dragapult VMAX",
+    "supertype": "Pokémon",
+    "subtypes": "VSTAR",
+    "types": "Water",
+    "number": "008",
+    "rarity": "Special Illustration Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/008.png",
+      "large": "https://images.pokemontcg.io/sv8/008_hires.png",
+      "foil": "/img/foils/sv8/foils/008_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/008_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-9",
+    "set": "sv8",
+    "name": "Zacian VSTAR",
+    "supertype": "Pokémon",
+    "subtypes": "VMAX",
+    "types": "Water",
+    "number": "009",
+    "rarity": "Illustration Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/009.png",
+      "large": "https://images.pokemontcg.io/sv8/009_hires.png",
+      "foil": "/img/foils/sv8/foils/009_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/009_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-10",
+    "set": "sv8",
+    "name": "Zamazenta UR",
+    "supertype": "Pokémon",
+    "subtypes": "Basic",
+    "types": "Water",
+    "number": "010",
+    "rarity": "Hyper Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/010.png",
+      "large": "https://images.pokemontcg.io/sv8/010_hires.png",
+      "foil": "/img/foils/sv8/foils/010_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/010_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-11",
+    "set": "sv8",
+    "name": "Eternatus SIR",
+    "supertype": "Pokémon",
+    "subtypes": "VSTAR",
+    "types": "Psychic",
+    "number": "011",
+    "rarity": "Ultra Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/011.png",
+      "large": "https://images.pokemontcg.io/sv8/011_hires.png",
+      "foil": "/img/foils/sv8/foils/011_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/011_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-12",
+    "set": "sv8",
+    "name": "Snorlax IR",
+    "supertype": "Pokémon",
+    "subtypes": "VMAX",
+    "types": "Psychic",
+    "number": "012",
+    "rarity": "Double Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/012.png",
+      "large": "https://images.pokemontcg.io/sv8/012_hires.png",
+      "foil": "/img/foils/sv8/foils/012_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/012_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-13",
+    "set": "sv8",
+    "name": "Blaziken Hyper",
+    "supertype": "Pokémon",
+    "subtypes": "Basic",
+    "types": "Psychic",
+    "number": "013",
+    "rarity": "Rare Holo VSTAR",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/013.png",
+      "large": "https://images.pokemontcg.io/sv8/013_hires.png",
+      "foil": "/img/foils/sv8/foils/013_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/013_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-14",
+    "set": "sv8",
+    "name": "Swampert Double",
+    "supertype": "Pokémon",
+    "subtypes": "VSTAR",
+    "types": "Psychic",
+    "number": "014",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/014.png",
+      "large": "https://images.pokemontcg.io/sv8/014_hires.png",
+      "foil": "/img/foils/sv8/foils/014_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/014_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-15",
+    "set": "sv8",
+    "name": "Sceptile UR",
+    "supertype": "Pokémon",
+    "subtypes": "VMAX",
+    "types": "Psychic",
+    "number": "015",
+    "rarity": "Special Illustration Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/015.png",
+      "large": "https://images.pokemontcg.io/sv8/015_hires.png",
+      "foil": "/img/foils/sv8/foils/015_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/015_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-16",
+    "set": "sv8",
+    "name": "Absol SIR",
+    "supertype": "Pokémon",
+    "subtypes": "Basic",
+    "types": "Colorless",
+    "number": "016",
+    "rarity": "Illustration Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/016.png",
+      "large": "https://images.pokemontcg.io/sv8/016_hires.png",
+      "foil": "/img/foils/sv8/foils/016_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/016_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-17",
+    "set": "sv8",
+    "name": "Salamence IR",
+    "supertype": "Pokémon",
+    "subtypes": "VSTAR",
+    "types": "Colorless",
+    "number": "017",
+    "rarity": "Hyper Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/017.png",
+      "large": "https://images.pokemontcg.io/sv8/017_hires.png",
+      "foil": "/img/foils/sv8/foils/017_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/017_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-18",
+    "set": "sv8",
+    "name": "Flygon VSTAR",
+    "supertype": "Pokémon",
+    "subtypes": "VMAX",
+    "types": "Colorless",
+    "number": "018",
+    "rarity": "Ultra Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/018.png",
+      "large": "https://images.pokemontcg.io/sv8/018_hires.png",
+      "foil": "/img/foils/sv8/foils/018_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/018_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-19",
+    "set": "sv8",
+    "name": "Metagross Hyper",
+    "supertype": "Pokémon",
+    "subtypes": "Basic",
+    "types": "Colorless",
+    "number": "019",
+    "rarity": "Double Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/019.png",
+      "large": "https://images.pokemontcg.io/sv8/019_hires.png",
+      "foil": "/img/foils/sv8/foils/019_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/019_foil_holo.png"
+    }
+  },
+  {
+    "id": "sv8-20",
+    "set": "sv8",
+    "name": "Garchomp UR",
+    "supertype": "Pokémon",
+    "subtypes": "VSTAR",
+    "types": "Colorless",
+    "number": "020",
+    "rarity": "Rare Holo VSTAR",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/020.png",
+      "large": "https://images.pokemontcg.io/sv8/020_hires.png",
+      "foil": "/img/foils/sv8/foils/020_foil_holo.jpg",
+      "mask": "/img/foils/sv8/masks/020_foil_holo.png"
+    }
+  }
+]
